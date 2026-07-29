@@ -1,0 +1,30 @@
+name: scrape-death-notices
+on:
+  schedule:
+    - cron: '17 * * * *'   # hourly at :17
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+permissions:
+  contents: write
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Scrape RIP.ie
+        run: node scrape.mjs
+      - name: Commit results (also keeps the schedule alive)
+        run: |
+          date -u +%FT%TZ > last-run.txt
+          git config user.name "parish-bot"
+          git config user.email "actions@github.com"
+          git add data/*.json last-run.txt
+          git commit -m "update death notices $(date -u +%FT%TZ)" || echo "nothing to commit"
+          git push
