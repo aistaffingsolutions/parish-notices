@@ -1,1 +1,36 @@
-{"notices":[],"scope":"none","updatedAt":null}
+{
+  "notices": [
+    {
+      "id": 636702,
+      "firstname": "Sheila",
+      "surname": "O' Kelly",
+      "nee": "",
+      "createdAt": "2026-07-18T11:02:03.716Z",
+      "town": "South Circular Road",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/636702"
+    },
+    {
+      "id": 637290,
+      "firstname": "SYLVIA",
+      "surname": "GUNNING",
+      "nee": "HOGAN",
+      "createdAt": "2026-07-25T12:45:18.140Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/637290"
+    },
+    {
+      "id": 637316,
+      "firstname": "Kathleen",
+      "surname": "O'Meara",
+      "nee": "",
+      "createdAt": "2026-07-28T11:09:17.567Z",
+      "town": "Doon",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/637316"
+    }
+  ],
+  "scope": "limerick",
+  "updatedAt": "2026-07-29T17:40:05.500Z"
+}
