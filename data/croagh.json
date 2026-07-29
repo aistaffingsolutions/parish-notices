@@ -11,16 +11,6 @@
       "url": "https://rip.ie/death-notice/636702"
     },
     {
-      "id": 637290,
-      "firstname": "SYLVIA",
-      "surname": "GUNNING",
-      "nee": "HOGAN",
-      "createdAt": "2026-07-25T12:45:18.140Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/637290"
-    },
-    {
       "id": 637316,
       "firstname": "Kathleen",
       "surname": "O'Meara",
@@ -29,8 +19,18 @@
       "town": "Doon",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/637316"
+    },
+    {
+      "id": 637407,
+      "firstname": "Averil",
+      "surname": "O'Shea",
+      "nee": "Robinson",
+      "createdAt": "2026-07-26T20:15:43.519Z",
+      "town": "Ballingarry",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/637407"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-07-29T22:14:39.828Z"
+  "updatedAt": "2026-07-29T23:16:30.792Z"
 }
