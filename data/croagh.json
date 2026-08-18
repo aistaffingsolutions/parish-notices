@@ -1,36 +1,16 @@
 {
   "notices": [
     {
-      "id": 639087,
-      "firstname": "Michelle",
-      "surname": "STEPHENSON",
+      "id": 639509,
+      "firstname": "Denis",
+      "surname": "O'Connor",
       "nee": "",
-      "createdAt": "2026-08-14T11:01:22.853Z",
-      "town": "Castletroy",
+      "createdAt": "2026-08-18T19:38:17.380Z",
+      "town": "Croagh",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/639087"
-    },
-    {
-      "id": 639110,
-      "firstname": "David",
-      "surname": "RYAN",
-      "nee": "",
-      "createdAt": "2026-08-14T13:41:46.544Z",
-      "town": "Janesboro",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/639110"
-    },
-    {
-      "id": 639130,
-      "firstname": "John (Johnny)",
-      "surname": "RYAN",
-      "nee": "",
-      "createdAt": "2026-08-14T15:27:28.394Z",
-      "town": "Castletroy",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/639130"
+      "url": "https://rip.ie/death-notice/639509"
     }
   ],
-  "scope": "limerick",
-  "updatedAt": "2026-08-18T18:57:03.675Z"
+  "scope": "parish",
+  "updatedAt": "2026-08-18T19:41:14.882Z"
 }
