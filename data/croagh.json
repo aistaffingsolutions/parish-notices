@@ -1,16 +1,36 @@
 {
   "notices": [
     {
-      "id": 639509,
-      "firstname": "Denis",
-      "surname": "O'Connor",
-      "nee": "",
-      "createdAt": "2026-08-18T19:38:17.380Z",
-      "town": "Croagh",
+      "id": 639285,
+      "firstname": "Mary",
+      "surname": "Burke",
+      "nee": "Kenny",
+      "createdAt": "2026-08-16T18:26:27.286Z",
+      "town": "Galbally",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/639509"
+      "url": "https://rip.ie/death-notice/639285"
+    },
+    {
+      "id": 639337,
+      "firstname": "Noreen",
+      "surname": "O Donnell",
+      "nee": "Coffey",
+      "createdAt": "2026-08-17T13:30:44.433Z",
+      "town": "Lisnagry",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/639337"
+    },
+    {
+      "id": 639349,
+      "firstname": "PJ",
+      "surname": "Barry",
+      "nee": "",
+      "createdAt": "2026-08-17T14:12:13.993Z",
+      "town": "Cappagh",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/639349"
     }
   ],
-  "scope": "parish",
-  "updatedAt": "2026-08-19T22:42:28.949Z"
+  "scope": "limerick",
+  "updatedAt": "2026-08-19T23:37:29.241Z"
 }
