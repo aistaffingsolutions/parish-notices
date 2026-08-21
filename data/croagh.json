@@ -1,6 +1,16 @@
 {
   "notices": [
     {
+      "id": 638437,
+      "firstname": "Clifford (Cliff)",
+      "surname": "MOLONEY",
+      "nee": "",
+      "createdAt": "2026-08-21T10:04:53.646Z",
+      "town": "Garryowen",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/638437"
+    },
+    {
       "id": 639349,
       "firstname": "PJ",
       "surname": "Barry",
@@ -19,18 +29,8 @@
       "town": "Raheen",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/639423"
-    },
-    {
-      "id": 639545,
-      "firstname": "Tony",
-      "surname": "Quinn",
-      "nee": "",
-      "createdAt": "2026-08-19T11:37:30.429Z",
-      "town": "Patrickswell",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/639545"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-08-21T09:52:46.347Z"
+  "updatedAt": "2026-08-21T10:48:14.505Z"
 }
