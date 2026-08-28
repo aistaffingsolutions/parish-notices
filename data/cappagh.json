@@ -11,16 +11,6 @@
       "url": "https://rip.ie/death-notice/639753"
     },
     {
-      "id": 639919,
-      "firstname": "Patrick (Paddy)",
-      "surname": "O'Brien",
-      "nee": "",
-      "createdAt": "2026-08-23T13:37:04.813Z",
-      "town": "Newcastle West",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/639919"
-    },
-    {
       "id": 640027,
       "firstname": "Noreen",
       "surname": "Walshe-Harte",
@@ -29,8 +19,18 @@
       "town": "Clareview",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/640027"
+    },
+    {
+      "id": 640046,
+      "firstname": "Michael",
+      "surname": "Ryan",
+      "nee": "",
+      "createdAt": "2026-08-24T18:26:32.597Z",
+      "town": "Pallasgreen",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/640046"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-08-27T20:31:20.351Z"
+  "updatedAt": "2026-08-28T05:25:10.888Z"
 }
