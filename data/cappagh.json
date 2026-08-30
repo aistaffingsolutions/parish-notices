@@ -11,16 +11,6 @@
       "url": "https://rip.ie/death-notice/639753"
     },
     {
-      "id": 640149,
-      "firstname": "JOAN",
-      "surname": "COLL",
-      "nee": "Byrne",
-      "createdAt": "2026-08-25T18:07:56.774Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/640149"
-    },
-    {
       "id": 640241,
       "firstname": "ANTHONY (Tony)",
       "surname": "O’BRIEN",
@@ -29,8 +19,18 @@
       "town": "Janesboro",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/640241"
+    },
+    {
+      "id": 640267,
+      "firstname": "Elizabeth (Betty)",
+      "surname": "Jones",
+      "nee": "Mangan",
+      "createdAt": "2026-08-27T10:33:28.134Z",
+      "town": "Crecora",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/640267"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-08-29T21:44:45.171Z"
+  "updatedAt": "2026-08-30T00:21:18.233Z"
 }
