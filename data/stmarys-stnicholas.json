@@ -1,0 +1,36 @@
+{
+  "notices": [
+    {
+      "id": 640313,
+      "firstname": "Lloyd",
+      "surname": "CONNORS",
+      "nee": "",
+      "createdAt": "2026-08-27T15:41:14.057Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/640313"
+    },
+    {
+      "id": 640497,
+      "firstname": "Mary",
+      "surname": "LYNCH RYAN",
+      "nee": "McInerney",
+      "createdAt": "2026-08-29T14:05:55.529Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/640497"
+    },
+    {
+      "id": 640503,
+      "firstname": "Patrick (Skippy)",
+      "surname": "FITZGIBBON",
+      "nee": "",
+      "createdAt": "2026-08-29T14:43:44.533Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/640503"
+    }
+  ],
+  "scope": "parish",
+  "updatedAt": "2026-08-30T18:14:32.520Z"
+}

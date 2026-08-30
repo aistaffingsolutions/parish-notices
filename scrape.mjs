@@ -24,7 +24,8 @@ const shape = (n) => ({
   url: `https://rip.ie/death-notice/${n.id}`,
 })
 function build(all, town) {
-  const parish = all.filter((n) => (n.town?.name || '').toLowerCase() === town).map(shape)
+  const towns = (Array.isArray(town) ? town : [town]).map((t) => t.toLowerCase())
+  const parish = all.filter((n) => towns.includes((n.town?.name || '').toLowerCase())).map(shape)
   let notices = parish, scope = 'parish'
   if (!notices.length) {
     notices = all.filter((n) => (n.county?.name || '') === 'Limerick').slice(0, 3).map(shape)
@@ -38,4 +39,6 @@ const all = await getRecent(buildId)
 mkdirSync('data', { recursive: true })
 writeFileSync('data/cappagh.json', JSON.stringify(build(all, 'cappagh'), null, 2))
 writeFileSync('data/croagh.json', JSON.stringify(build(all, 'croagh'), null, 2))
-console.log('wrote data/cappagh.json and data/croagh.json;', all.length, 'notices scanned')
+// St Mary's & St Nicholas Parishes, Limerick city — RIP.ie labels city notices "Limerick City".
+writeFileSync('data/stmarys-stnicholas.json', JSON.stringify(build(all, ['limerick city']), null, 2))
+console.log('wrote data/cappagh.json, data/croagh.json and data/stmarys-stnicholas.json;', all.length, 'notices scanned')
