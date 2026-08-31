@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 639753,
-      "firstname": "MALCOLM",
-      "surname": "GRACE",
-      "nee": "",
-      "createdAt": "2026-08-21T13:04:24.956Z",
-      "town": "Corbally",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/639753"
-    },
-    {
-      "id": 640241,
-      "firstname": "ANTHONY (Tony)",
-      "surname": "O’BRIEN",
-      "nee": "",
-      "createdAt": "2026-08-27T11:33:30.149Z",
-      "town": "Janesboro",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/640241"
-    },
-    {
       "id": 640267,
       "firstname": "Elizabeth (Betty)",
       "surname": "Jones",
@@ -29,8 +9,28 @@
       "town": "Crecora",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/640267"
+    },
+    {
+      "id": 640313,
+      "firstname": "Lloyd",
+      "surname": "CONNORS",
+      "nee": "",
+      "createdAt": "2026-08-27T15:41:14.057Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/640313"
+    },
+    {
+      "id": 640423,
+      "firstname": "Mary",
+      "surname": "LAFFAN",
+      "nee": "LYNCH",
+      "createdAt": "2026-08-29T15:22:14.443Z",
+      "town": "Pallasgreen",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/640423"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-08-31T20:06:34.107Z"
+  "updatedAt": "2026-08-31T23:51:43.533Z"
 }
