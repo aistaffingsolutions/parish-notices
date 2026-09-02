@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 640267,
-      "firstname": "Elizabeth (Betty)",
-      "surname": "Jones",
-      "nee": "Mangan",
-      "createdAt": "2026-08-27T10:33:28.134Z",
-      "town": "Crecora",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/640267"
-    },
-    {
-      "id": 640313,
-      "firstname": "Lloyd",
-      "surname": "CONNORS",
-      "nee": "",
-      "createdAt": "2026-08-27T15:41:14.057Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/640313"
-    },
-    {
       "id": 640423,
       "firstname": "Mary",
       "surname": "LAFFAN",
@@ -29,8 +9,28 @@
       "town": "Pallasgreen",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/640423"
+    },
+    {
+      "id": 640423,
+      "firstname": "Mary",
+      "surname": "LAFFAN",
+      "nee": "LYNCH",
+      "createdAt": "2026-08-29T15:22:14.443Z",
+      "town": "Kilmallock",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/640423"
+    },
+    {
+      "id": 640481,
+      "firstname": "James",
+      "surname": "Prendiville",
+      "nee": "",
+      "createdAt": "2026-08-29T12:18:51.913Z",
+      "town": "Raheen",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/640481"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-09-01T21:47:57.286Z"
+  "updatedAt": "2026-09-02T00:15:31.250Z"
 }
