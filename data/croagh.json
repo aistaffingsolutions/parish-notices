@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 640423,
-      "firstname": "Mary",
-      "surname": "LAFFAN",
-      "nee": "LYNCH",
-      "createdAt": "2026-08-29T15:22:14.443Z",
-      "town": "Pallasgreen",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/640423"
-    },
-    {
-      "id": 640423,
-      "firstname": "Mary",
-      "surname": "LAFFAN",
-      "nee": "LYNCH",
-      "createdAt": "2026-08-29T15:22:14.443Z",
-      "town": "Kilmallock",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/640423"
-    },
-    {
       "id": 640481,
       "firstname": "James",
       "surname": "Prendiville",
@@ -29,8 +9,28 @@
       "town": "Raheen",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/640481"
+    },
+    {
+      "id": 640481,
+      "firstname": "James",
+      "surname": "Prendiville",
+      "nee": "",
+      "createdAt": "2026-08-29T12:18:51.913Z",
+      "town": "Patrickswell",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/640481"
+    },
+    {
+      "id": 640616,
+      "firstname": "Teresa",
+      "surname": "Wrenn",
+      "nee": "Kennelly",
+      "createdAt": "2026-08-30T22:12:39.678Z",
+      "town": "Shanagolden",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/640616"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-09-02T21:50:19.783Z"
+  "updatedAt": "2026-09-03T00:17:10.939Z"
 }
