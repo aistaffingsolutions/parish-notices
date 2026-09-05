@@ -11,16 +11,6 @@
       "url": "https://rip.ie/death-notice/640849"
     },
     {
-      "id": 640892,
-      "firstname": "Gerard (Ginger)",
-      "surname": "CRONIN",
-      "nee": "",
-      "createdAt": "2026-09-02T13:55:49.557Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/640892"
-    },
-    {
       "id": 641061,
       "firstname": "Peter (Gusher)",
       "surname": "AHERN",
@@ -32,5 +22,5 @@
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-09-04T21:29:55.051Z"
+  "updatedAt": "2026-09-05T00:07:20.986Z"
 }
