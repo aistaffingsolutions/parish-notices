@@ -11,16 +11,6 @@
       "url": "https://rip.ie/death-notice/640849"
     },
     {
-      "id": 641061,
-      "firstname": "Peter (Gusher)",
-      "surname": "AHERN",
-      "nee": "",
-      "createdAt": "2026-09-04T11:01:40.245Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641061"
-    },
-    {
       "id": 641339,
       "firstname": "Neil (Con)",
       "surname": "DESMOND",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/641339"
+    },
+    {
+      "id": 641381,
+      "firstname": "Paul",
+      "surname": "RYAN",
+      "nee": "",
+      "createdAt": "2026-09-07T16:07:56.058Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/641381"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-09-07T20:34:58.930Z"
+  "updatedAt": "2026-09-07T23:30:25.537Z"
 }
