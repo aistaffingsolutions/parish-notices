@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 640849,
-      "firstname": "Michael",
-      "surname": "DORAN",
-      "nee": "",
-      "createdAt": "2026-09-02T08:19:18.736Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/640849"
-    },
-    {
       "id": 641339,
       "firstname": "Neil (Con)",
       "surname": "DESMOND",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/641381"
+    },
+    {
+      "id": 641423,
+      "firstname": "MICHAEL \"CHUCK\"",
+      "surname": "O'CONNOR",
+      "nee": "",
+      "createdAt": "2026-09-08T11:02:05.198Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/641423"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-09-08T21:52:19.257Z"
+  "updatedAt": "2026-09-09T00:16:01.674Z"
 }
