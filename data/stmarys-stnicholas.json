@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 641339,
-      "firstname": "Neil (Con)",
-      "surname": "DESMOND",
-      "nee": "",
-      "createdAt": "2026-09-07T13:20:07.604Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641339"
-    },
-    {
       "id": 641381,
       "firstname": "Paul",
       "surname": "RYAN",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/641423"
+    },
+    {
+      "id": 641535,
+      "firstname": "William (Jack)",
+      "surname": "Spratt",
+      "nee": "",
+      "createdAt": "2026-09-09T14:00:31.000Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/641535"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-09-09T21:42:46.373Z"
+  "updatedAt": "2026-09-10T00:15:44.337Z"
 }
