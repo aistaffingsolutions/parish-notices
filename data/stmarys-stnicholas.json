@@ -11,16 +11,6 @@
       "url": "https://rip.ie/death-notice/641381"
     },
     {
-      "id": 641423,
-      "firstname": "MICHAEL \"CHUCK\"",
-      "surname": "O'CONNOR",
-      "nee": "",
-      "createdAt": "2026-09-08T11:02:05.198Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641423"
-    },
-    {
       "id": 641535,
       "firstname": "William (Jack)",
       "surname": "Spratt",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/641535"
+    },
+    {
+      "id": 641619,
+      "firstname": "Patrick",
+      "surname": "ROONEY",
+      "nee": "",
+      "createdAt": "2026-09-10T13:24:33.289Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/641619"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-09-10T21:38:58.534Z"
+  "updatedAt": "2026-09-11T00:11:23.640Z"
 }
