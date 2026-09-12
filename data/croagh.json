@@ -1,6 +1,16 @@
 {
   "notices": [
     {
+      "id": 641241,
+      "firstname": "KEVIN",
+      "surname": "MORIARTY",
+      "nee": "",
+      "createdAt": "2026-09-12T12:17:41.871Z",
+      "town": "Clareview",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/641241"
+    },
+    {
       "id": 641356,
       "firstname": "Michael (Mike)",
       "surname": "O'Connelll",
@@ -19,18 +29,8 @@
       "town": "Askeaton",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/641356"
-    },
-    {
-      "id": 641535,
-      "firstname": "William (Jack)",
-      "surname": "Spratt",
-      "nee": "",
-      "createdAt": "2026-09-09T14:00:31.000Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641535"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-09-12T10:48:50.250Z"
+  "updatedAt": "2026-09-12T14:09:25.995Z"
 }
