@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 641381,
-      "firstname": "Paul",
-      "surname": "RYAN",
-      "nee": "",
-      "createdAt": "2026-09-07T16:07:56.058Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641381"
-    },
-    {
       "id": 641535,
       "firstname": "William (Jack)",
       "surname": "Spratt",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/641619"
+    },
+    {
+      "id": 641727,
+      "firstname": "Alphonsus (Alfie)",
+      "surname": "O'Doherty",
+      "nee": "",
+      "createdAt": "2026-09-11T14:42:26.666Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/641727"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-09-11T21:44:25.479Z"
+  "updatedAt": "2026-09-12T00:19:21.673Z"
 }

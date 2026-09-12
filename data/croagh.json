@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 641241,
-      "firstname": "KEVIN",
-      "surname": "MORIARTY",
-      "nee": "",
-      "createdAt": "2026-09-06T14:24:40.473Z",
-      "town": "Clareview",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641241"
-    },
-    {
-      "id": 641249,
-      "firstname": "Anne",
-      "surname": "Kane , Constable",
-      "nee": "",
-      "createdAt": "2026-09-08T16:33:17.823Z",
-      "town": "Ballysimon",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641249"
-    },
-    {
       "id": 641356,
       "firstname": "Michael (Mike)",
       "surname": "O'Connelll",
@@ -29,8 +9,28 @@
       "town": "Carrigkerry",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/641356"
+    },
+    {
+      "id": 641356,
+      "firstname": "Michael (Mike)",
+      "surname": "O'Connelll",
+      "nee": "",
+      "createdAt": "2026-09-07T14:35:52.145Z",
+      "town": "Askeaton",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/641356"
+    },
+    {
+      "id": 641535,
+      "firstname": "William (Jack)",
+      "surname": "Spratt",
+      "nee": "",
+      "createdAt": "2026-09-09T14:00:31.000Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/641535"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-09-11T21:44:25.479Z"
+  "updatedAt": "2026-09-12T00:19:21.673Z"
 }
