@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 641535,
-      "firstname": "William (Jack)",
-      "surname": "Spratt",
-      "nee": "",
-      "createdAt": "2026-09-09T14:00:31.000Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641535"
-    },
-    {
       "id": 641619,
       "firstname": "Patrick",
       "surname": "ROONEY",
@@ -32,5 +22,5 @@
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-09-12T22:18:52.371Z"
+  "updatedAt": "2026-09-13T01:01:39.282Z"
 }
