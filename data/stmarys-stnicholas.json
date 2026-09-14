@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 641619,
-      "firstname": "Patrick",
-      "surname": "ROONEY",
-      "nee": "",
-      "createdAt": "2026-09-10T13:24:33.289Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641619"
-    },
-    {
       "id": 641727,
       "firstname": "Alphonsus (Alfie)",
       "surname": "O'Doherty",
@@ -22,5 +12,5 @@
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-09-13T22:25:11.446Z"
+  "updatedAt": "2026-09-14T01:06:26.253Z"
 }
