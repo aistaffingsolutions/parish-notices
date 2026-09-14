@@ -1,16 +1,36 @@
 {
   "notices": [
     {
-      "id": 641727,
-      "firstname": "Alphonsus (Alfie)",
-      "surname": "O'Doherty",
+      "id": 641241,
+      "firstname": "KEVIN",
+      "surname": "MORIARTY",
       "nee": "",
-      "createdAt": "2026-09-11T14:42:26.666Z",
-      "town": "Limerick City",
+      "createdAt": "2026-09-12T12:17:41.871Z",
+      "town": "Clareview",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641727"
+      "url": "https://rip.ie/death-notice/641241"
+    },
+    {
+      "id": 641356,
+      "firstname": "Michael (Mike)",
+      "surname": "O'Connelll",
+      "nee": "",
+      "createdAt": "2026-09-07T14:35:52.145Z",
+      "town": "Carrigkerry",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/641356"
+    },
+    {
+      "id": 641356,
+      "firstname": "Michael (Mike)",
+      "surname": "O'Connelll",
+      "nee": "",
+      "createdAt": "2026-09-07T14:35:52.145Z",
+      "town": "Askeaton",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/641356"
     }
   ],
-  "scope": "parish",
-  "updatedAt": "2026-09-14T19:22:41.766Z"
+  "scope": "limerick",
+  "updatedAt": "2026-09-14T23:08:38.986Z"
 }
