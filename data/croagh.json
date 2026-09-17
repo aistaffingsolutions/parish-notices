@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 641241,
-      "firstname": "KEVIN",
-      "surname": "MORIARTY",
-      "nee": "",
-      "createdAt": "2026-09-12T12:17:41.871Z",
-      "town": "Clareview",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641241"
-    },
-    {
       "id": 641356,
       "firstname": "Michael (Mike)",
       "surname": "O'Connelll",
@@ -29,8 +19,18 @@
       "town": "Askeaton",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/641356"
+    },
+    {
+      "id": 641810,
+      "firstname": "Freddy",
+      "surname": "O' Donoghue",
+      "nee": "",
+      "createdAt": "2026-09-12T13:00:41.862Z",
+      "town": "Rathkeale",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/641810"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-09-16T22:57:12.526Z"
+  "updatedAt": "2026-09-17T01:26:52.396Z"
 }
