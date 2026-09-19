@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 641356,
-      "firstname": "Michael (Mike)",
-      "surname": "O'Connell",
+      "id": 642113,
+      "firstname": "BRIGID",
+      "surname": "FITZGERALD",
       "nee": "",
-      "createdAt": "2026-09-07T14:35:52.145Z",
-      "town": "Carrigkerry",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641356"
-    },
-    {
-      "id": 641356,
-      "firstname": "Michael (Mike)",
-      "surname": "O'Connell",
-      "nee": "",
-      "createdAt": "2026-09-07T14:35:52.145Z",
-      "town": "Askeaton",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/641356"
-    },
-    {
-      "id": 642059,
-      "firstname": "Noel",
-      "surname": "O'CALLAGHAN",
-      "nee": "",
-      "createdAt": "2026-09-15T09:25:00.923Z",
+      "createdAt": "2026-09-15T14:53:20.527Z",
       "town": "",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642059"
+      "url": "https://rip.ie/death-notice/642113"
+    },
+    {
+      "id": 642205,
+      "firstname": "Eamon",
+      "surname": "Curran",
+      "nee": "",
+      "createdAt": "2026-09-16T15:27:38.467Z",
+      "town": "Crecora",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/642205"
+    },
+    {
+      "id": 642206,
+      "firstname": "Nancy",
+      "surname": "O'Brien",
+      "nee": "Fenton",
+      "createdAt": "2026-09-16T15:36:14.283Z",
+      "town": "Patrickswell",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/642206"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-09-18T22:35:41.951Z"
+  "updatedAt": "2026-09-19T01:10:51.282Z"
 }
