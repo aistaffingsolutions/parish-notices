@@ -11,16 +11,6 @@
       "url": "https://rip.ie/death-notice/642205"
     },
     {
-      "id": 642232,
-      "firstname": "Damien",
-      "surname": "Doyle",
-      "nee": "",
-      "createdAt": "2026-09-17T08:50:37.753Z",
-      "town": "",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642232"
-    },
-    {
       "id": 642359,
       "firstname": "Marion",
       "surname": "Shinners",
@@ -29,8 +19,18 @@
       "town": "",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/642359"
+    },
+    {
+      "id": 642439,
+      "firstname": "Terence (Terry)",
+      "surname": "O' MAHONY",
+      "nee": "",
+      "createdAt": "2026-09-19T11:51:15.102Z",
+      "town": "Abbeyfeale",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/642439"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-09-21T19:28:53.218Z"
+  "updatedAt": "2026-09-21T23:17:50.749Z"
 }
