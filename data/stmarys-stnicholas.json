@@ -19,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/642735"
+    },
+    {
+      "id": 642736,
+      "firstname": "Roy",
+      "surname": "MCCARTHY",
+      "nee": "",
+      "createdAt": "2026-09-22T15:06:57.904Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/642736"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-09-22T14:55:34.201Z"
+  "updatedAt": "2026-09-22T18:55:43.069Z"
 }
