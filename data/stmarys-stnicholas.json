@@ -9,8 +9,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/642646"
+    },
+    {
+      "id": 642735,
+      "firstname": "Nigel",
+      "surname": "GILBERT",
+      "nee": "",
+      "createdAt": "2026-09-22T14:49:45.171Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/642735"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-09-22T09:58:36.785Z"
+  "updatedAt": "2026-09-22T14:55:34.201Z"
 }
