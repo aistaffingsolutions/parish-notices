@@ -1,36 +1,16 @@
 {
   "notices": [
     {
-      "id": 642205,
-      "firstname": "Eamon",
-      "surname": "Curran",
-      "nee": "",
-      "createdAt": "2026-09-16T15:27:38.467Z",
-      "town": "Crecora",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642205"
-    },
-    {
-      "id": 642521,
-      "firstname": "Pat (Paddy)",
-      "surname": "Walsh",
-      "nee": "",
-      "createdAt": "2026-09-22T09:19:19.902Z",
-      "town": "Kilmeedy",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642521"
-    },
-    {
-      "id": 642540,
-      "firstname": "PATRICK (PADDY)",
-      "surname": "HEFFERNAN",
-      "nee": "",
-      "createdAt": "2026-09-20T15:14:42.891Z",
-      "town": "Patrickswell",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642540"
+      "id": 642799,
+      "firstname": "Caroline",
+      "surname": "Mackintosh",
+      "nee": "Power",
+      "createdAt": "2026-09-23T11:21:57.400Z",
+      "town": "Cappagh",
+      "county": "Waterford",
+      "url": "https://rip.ie/death-notice/642799"
     }
   ],
-  "scope": "limerick",
-  "updatedAt": "2026-09-23T05:59:30.370Z"
+  "scope": "parish",
+  "updatedAt": "2026-09-23T11:39:06.656Z"
 }
