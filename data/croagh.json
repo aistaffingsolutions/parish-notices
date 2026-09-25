@@ -1,16 +1,36 @@
 {
   "notices": [
     {
-      "id": 642671,
-      "firstname": "Pauline",
-      "surname": "Hanley",
-      "nee": "Ryan",
-      "createdAt": "2026-09-21T20:00:24.634Z",
-      "town": "Croagh",
+      "id": 642565,
+      "firstname": "Peggy",
+      "surname": "Mitchell",
+      "nee": "Leahy",
+      "createdAt": "2026-09-21T08:07:39.271Z",
+      "town": "Mountcollins",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642671"
+      "url": "https://rip.ie/death-notice/642565"
+    },
+    {
+      "id": 642641,
+      "firstname": "Elizabeth (Liz)",
+      "surname": "Lynch",
+      "nee": "",
+      "createdAt": "2026-09-21T16:17:33.451Z",
+      "town": "Newcastle West",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/642641"
+    },
+    {
+      "id": 642641,
+      "firstname": "Elizabeth (Liz)",
+      "surname": "Lynch",
+      "nee": "",
+      "createdAt": "2026-09-21T16:17:33.451Z",
+      "town": "Feenagh",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/642641"
     }
   ],
-  "scope": "parish",
-  "updatedAt": "2026-09-24T22:25:31.555Z"
+  "scope": "limerick",
+  "updatedAt": "2026-09-25T01:31:49.100Z"
 }
