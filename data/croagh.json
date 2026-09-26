@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 642565,
-      "firstname": "Peggy",
-      "surname": "Mitchell",
-      "nee": "Leahy",
-      "createdAt": "2026-09-21T08:07:39.271Z",
-      "town": "Mountcollins",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642565"
-    },
-    {
       "id": 642641,
       "firstname": "Elizabeth (Liz)",
       "surname": "Lynch",
@@ -29,8 +19,18 @@
       "town": "Feenagh",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/642641"
+    },
+    {
+      "id": 642731,
+      "firstname": "John",
+      "surname": "Wallace",
+      "nee": "",
+      "createdAt": "2026-09-22T13:53:09.821Z",
+      "town": "Newcastle West",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/642731"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-09-25T22:22:01.390Z"
+  "updatedAt": "2026-09-26T01:35:28.684Z"
 }
