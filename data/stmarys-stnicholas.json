@@ -19,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/642892"
+    },
+    {
+      "id": 643072,
+      "firstname": "Robert",
+      "surname": "HANLEY",
+      "nee": "",
+      "createdAt": "2026-09-26T10:30:50.602Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/643072"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-09-26T07:43:53.827Z"
+  "updatedAt": "2026-09-26T13:06:41.858Z"
 }
