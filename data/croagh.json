@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 642641,
-      "firstname": "Elizabeth (Liz)",
-      "surname": "Lynch",
-      "nee": "",
-      "createdAt": "2026-09-21T16:17:33.451Z",
-      "town": "Newcastle West",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642641"
-    },
-    {
-      "id": 642641,
-      "firstname": "Elizabeth (Liz)",
-      "surname": "Lynch",
-      "nee": "",
-      "createdAt": "2026-09-21T16:17:33.451Z",
-      "town": "Feenagh",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642641"
-    },
-    {
-      "id": 642731,
+      "id": 642920,
       "firstname": "John",
-      "surname": "Wallace",
+      "surname": "Fitzpatrick",
       "nee": "",
-      "createdAt": "2026-09-22T13:53:09.821Z",
-      "town": "Newcastle West",
+      "createdAt": "2026-09-24T14:16:18.563Z",
+      "town": "Ballagh",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642731"
+      "url": "https://rip.ie/death-notice/642920"
+    },
+    {
+      "id": 642943,
+      "firstname": "Geoff",
+      "surname": "Lane",
+      "nee": "",
+      "createdAt": "2026-09-24T18:47:53.816Z",
+      "town": "Murroe",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/642943"
+    },
+    {
+      "id": 642943,
+      "firstname": "Geoff",
+      "surname": "Lane",
+      "nee": "",
+      "createdAt": "2026-09-24T18:47:53.816Z",
+      "town": "Cappamore",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/642943"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-09-26T22:52:47.655Z"
+  "updatedAt": "2026-09-27T01:28:19.581Z"
 }
