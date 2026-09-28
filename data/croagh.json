@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 642920,
-      "firstname": "John",
-      "surname": "Fitzpatrick",
+      "id": 643003,
+      "firstname": "Noel",
+      "surname": "Noonan",
       "nee": "",
-      "createdAt": "2026-09-24T14:16:18.563Z",
-      "town": "Ballagh",
+      "createdAt": "2026-09-25T14:10:51.146Z",
+      "town": "Granagh",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642920"
+      "url": "https://rip.ie/death-notice/643003"
     },
     {
-      "id": 642943,
-      "firstname": "Geoff",
-      "surname": "Lane",
-      "nee": "",
-      "createdAt": "2026-09-24T18:47:53.816Z",
-      "town": "Murroe",
+      "id": 643009,
+      "firstname": "Mary",
+      "surname": "LOWE",
+      "nee": "HALVEY",
+      "createdAt": "2026-09-25T14:26:47.498Z",
+      "town": "Caherconlish",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642943"
+      "url": "https://rip.ie/death-notice/643009"
     },
     {
-      "id": 642943,
-      "firstname": "Geoff",
-      "surname": "Lane",
-      "nee": "",
-      "createdAt": "2026-09-24T18:47:53.816Z",
-      "town": "Cappamore",
+      "id": 643021,
+      "firstname": "Maureen",
+      "surname": "MURPHY",
+      "nee": "Cleary",
+      "createdAt": "2026-09-25T15:25:20.691Z",
+      "town": "Abbeyfeale",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/642943"
+      "url": "https://rip.ie/death-notice/643021"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-09-27T22:12:51.129Z"
+  "updatedAt": "2026-09-28T00:48:24.509Z"
 }
