@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 643003,
-      "firstname": "Noel",
-      "surname": "Noonan",
+      "id": 643234,
+      "firstname": "Teresa",
+      "surname": "CANTILLON",
       "nee": "",
-      "createdAt": "2026-09-25T14:10:51.146Z",
-      "town": "Granagh",
+      "createdAt": "2026-09-28T11:18:45.951Z",
+      "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643003"
+      "url": "https://rip.ie/death-notice/643234"
     },
     {
-      "id": 643009,
-      "firstname": "Mary",
-      "surname": "LOWE",
-      "nee": "HALVEY",
-      "createdAt": "2026-09-25T14:26:47.498Z",
-      "town": "Caherconlish",
+      "id": 643246,
+      "firstname": "AUSTIN",
+      "surname": "BYRNES",
+      "nee": "",
+      "createdAt": "2026-09-28T12:19:30.485Z",
+      "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643009"
+      "url": "https://rip.ie/death-notice/643246"
     },
     {
-      "id": 643021,
-      "firstname": "Maureen",
-      "surname": "MURPHY",
-      "nee": "Cleary",
-      "createdAt": "2026-09-25T15:25:20.691Z",
-      "town": "Abbeyfeale",
+      "id": 643249,
+      "firstname": "Hilary",
+      "surname": "Kinneen",
+      "nee": "",
+      "createdAt": "2026-09-28T12:24:51.865Z",
+      "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643021"
+      "url": "https://rip.ie/death-notice/643249"
     }
   ],
-  "scope": "limerick",
-  "updatedAt": "2026-09-28T06:55:51.742Z"
+  "scope": "parish",
+  "updatedAt": "2026-09-28T15:29:50.098Z"
 }
