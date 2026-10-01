@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 643230,
-      "firstname": "Dolores",
-      "surname": "Foley",
-      "nee": "Walsh",
-      "createdAt": "2026-09-28T11:11:50.313Z",
-      "town": "Askeaton",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643230"
-    },
-    {
-      "id": 643230,
-      "firstname": "Dolores",
-      "surname": "Foley",
-      "nee": "Walsh",
-      "createdAt": "2026-09-28T11:11:50.313Z",
-      "town": "Pallaskenry",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643230"
-    },
-    {
-      "id": 643234,
-      "firstname": "Teresa",
-      "surname": "CANTILLON",
+      "id": 643246,
+      "firstname": "AUSTIN",
+      "surname": "BYRNES",
       "nee": "",
-      "createdAt": "2026-09-28T11:18:45.951Z",
+      "createdAt": "2026-09-28T12:19:30.485Z",
       "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643234"
+      "url": "https://rip.ie/death-notice/643246"
+    },
+    {
+      "id": 643280,
+      "firstname": "Joan",
+      "surname": "Kelly",
+      "nee": "O'Connor",
+      "createdAt": "2026-09-28T14:32:05.068Z",
+      "town": "Pallasgreen",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/643280"
+    },
+    {
+      "id": 643358,
+      "firstname": "Denny",
+      "surname": "Shanahan",
+      "nee": "",
+      "createdAt": "2026-09-29T08:16:39.714Z",
+      "town": "Kilmeedy",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/643358"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-10-01T19:32:15.249Z"
+  "updatedAt": "2026-10-01T23:53:17.647Z"
 }
