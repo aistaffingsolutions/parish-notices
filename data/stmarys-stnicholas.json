@@ -19,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/643246"
+    },
+    {
+      "id": 643606,
+      "firstname": "Kathleen",
+      "surname": "Frawley",
+      "nee": "Fitzgibbon",
+      "createdAt": "2026-10-01T15:07:17.520Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/643606"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-01T13:18:02.233Z"
+  "updatedAt": "2026-10-01T19:32:15.250Z"
 }
