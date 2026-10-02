@@ -19,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/643606"
+    },
+    {
+      "id": 643674,
+      "firstname": "Myra",
+      "surname": "McInerney",
+      "nee": "Flanagan",
+      "createdAt": "2026-10-02T12:04:33.717Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/643674"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-02T05:39:29.434Z"
+  "updatedAt": "2026-10-02T12:37:11.891Z"
 }
