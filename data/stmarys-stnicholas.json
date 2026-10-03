@@ -19,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/643674"
+    },
+    {
+      "id": 643788,
+      "firstname": "Patrick",
+      "surname": "HARTE",
+      "nee": "",
+      "createdAt": "2026-10-03T15:04:23.258Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/643788"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-03T13:23:48.917Z"
+  "updatedAt": "2026-10-03T17:57:25.914Z"
 }
