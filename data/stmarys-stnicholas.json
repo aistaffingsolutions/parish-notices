@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 643246,
-      "firstname": "AUSTIN",
-      "surname": "BYRNES",
-      "nee": "",
-      "createdAt": "2026-09-28T12:19:30.485Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643246"
-    },
-    {
       "id": 643606,
       "firstname": "Kathleen",
       "surname": "Frawley",
@@ -32,5 +22,5 @@
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-02T22:58:27.875Z"
+  "updatedAt": "2026-10-03T01:59:03.160Z"
 }

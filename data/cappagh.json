@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 643246,
-      "firstname": "AUSTIN",
-      "surname": "BYRNES",
+      "id": 643380,
+      "firstname": "Frank",
+      "surname": "Shortt",
       "nee": "",
-      "createdAt": "2026-09-28T12:19:30.485Z",
-      "town": "Limerick City",
+      "createdAt": "2026-09-29T10:38:15.066Z",
+      "town": "Mungret",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643246"
+      "url": "https://rip.ie/death-notice/643380"
     },
     {
-      "id": 643280,
-      "firstname": "Joan",
-      "surname": "Kelly",
-      "nee": "O'Connor",
-      "createdAt": "2026-09-28T14:32:05.068Z",
-      "town": "Pallasgreen",
+      "id": 643386,
+      "firstname": "Noreen",
+      "surname": "MACKEY",
+      "nee": "Brennan",
+      "createdAt": "2026-09-29T12:04:21.582Z",
+      "town": "Lisnagry",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643280"
+      "url": "https://rip.ie/death-notice/643386"
     },
     {
-      "id": 643358,
-      "firstname": "Denny",
-      "surname": "Shanahan",
-      "nee": "",
-      "createdAt": "2026-09-29T08:16:39.714Z",
-      "town": "Kilmeedy",
+      "id": 643437,
+      "firstname": "Maura",
+      "surname": "Madigan",
+      "nee": "O' Brien",
+      "createdAt": "2026-09-29T18:47:34.487Z",
+      "town": "Pallaskenry",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643358"
+      "url": "https://rip.ie/death-notice/643437"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-10-02T22:58:27.874Z"
+  "updatedAt": "2026-10-03T01:59:03.160Z"
 }
