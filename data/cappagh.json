@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 643380,
-      "firstname": "Frank",
-      "surname": "Shortt",
-      "nee": "",
-      "createdAt": "2026-09-29T10:38:15.066Z",
-      "town": "Mungret",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643380"
-    },
-    {
       "id": 643386,
       "firstname": "Noreen",
       "surname": "MACKEY",
@@ -21,16 +11,26 @@
       "url": "https://rip.ie/death-notice/643386"
     },
     {
-      "id": 643437,
-      "firstname": "Maura",
-      "surname": "Madigan",
-      "nee": "O' Brien",
-      "createdAt": "2026-09-29T18:47:34.487Z",
-      "town": "Pallaskenry",
+      "id": 643494,
+      "firstname": "Theresa Anthony (Terry)",
+      "surname": "Kelly",
+      "nee": "Gilligan",
+      "createdAt": "2026-09-30T13:33:43.495Z",
+      "town": "",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643437"
+      "url": "https://rip.ie/death-notice/643494"
+    },
+    {
+      "id": 643545,
+      "firstname": "Tim",
+      "surname": "Mulcahy",
+      "nee": "",
+      "createdAt": "2026-09-30T20:12:47.379Z",
+      "town": "Herbertstown",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/643545"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-10-03T21:17:21.649Z"
+  "updatedAt": "2026-10-04T00:39:01.513Z"
 }
