@@ -1,36 +1,16 @@
 {
   "notices": [
     {
-      "id": 643386,
-      "firstname": "Noreen",
-      "surname": "MACKEY",
-      "nee": "Brennan",
-      "createdAt": "2026-09-29T12:04:21.582Z",
-      "town": "Lisnagry",
+      "id": 644017,
+      "firstname": "Denis",
+      "surname": "Kenneally",
+      "nee": "",
+      "createdAt": "2026-10-05T19:19:18.629Z",
+      "town": "Croagh",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643386"
-    },
-    {
-      "id": 643494,
-      "firstname": "Theresa Anthony (Terry)",
-      "surname": "Kelly",
-      "nee": "Gilligan",
-      "createdAt": "2026-09-30T13:33:43.495Z",
-      "town": "",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643494"
-    },
-    {
-      "id": 643606,
-      "firstname": "Kathleen",
-      "surname": "Frawley",
-      "nee": "Fitzgibbon",
-      "createdAt": "2026-10-01T15:07:17.520Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643606"
+      "url": "https://rip.ie/death-notice/644017"
     }
   ],
-  "scope": "limerick",
-  "updatedAt": "2026-10-05T16:01:58.489Z"
+  "scope": "parish",
+  "updatedAt": "2026-10-05T22:38:32.088Z"
 }
