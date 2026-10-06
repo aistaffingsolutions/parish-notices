@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 643606,
-      "firstname": "Kathleen",
-      "surname": "Frawley",
-      "nee": "Fitzgibbon",
-      "createdAt": "2026-10-01T15:07:17.520Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643606"
-    },
-    {
       "id": 643674,
       "firstname": "Myra",
       "surname": "McInerney",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/643788"
+    },
+    {
+      "id": 643814,
+      "firstname": "Tom",
+      "surname": "O'Connor",
+      "nee": "",
+      "createdAt": "2026-10-03T18:34:09.559Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/643814"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-05T22:38:32.088Z"
+  "updatedAt": "2026-10-06T02:59:19.424Z"
 }
