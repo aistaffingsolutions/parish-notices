@@ -1,16 +1,36 @@
 {
   "notices": [
     {
-      "id": 644017,
-      "firstname": "Denis",
-      "surname": "Kenneally",
+      "id": 643788,
+      "firstname": "Patrick",
+      "surname": "HARTE",
       "nee": "",
-      "createdAt": "2026-10-05T19:19:18.629Z",
-      "town": "Croagh",
+      "createdAt": "2026-10-03T15:04:23.258Z",
+      "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/644017"
+      "url": "https://rip.ie/death-notice/643788"
+    },
+    {
+      "id": 643814,
+      "firstname": "Tom",
+      "surname": "O'Connor",
+      "nee": "",
+      "createdAt": "2026-10-03T18:34:09.559Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/643814"
+    },
+    {
+      "id": 643945,
+      "firstname": "Lily",
+      "surname": "FORDE",
+      "nee": "COPLEY",
+      "createdAt": "2026-10-05T13:46:54.660Z",
+      "town": "",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/643945"
     }
   ],
-  "scope": "parish",
-  "updatedAt": "2026-10-07T21:59:20.208Z"
+  "scope": "limerick",
+  "updatedAt": "2026-10-08T01:56:46.066Z"
 }
