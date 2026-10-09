@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 643788,
-      "firstname": "Patrick",
-      "surname": "HARTE",
-      "nee": "",
-      "createdAt": "2026-10-03T15:04:23.258Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643788"
-    },
-    {
-      "id": 643814,
-      "firstname": "Tom",
-      "surname": "O'Connor",
-      "nee": "",
-      "createdAt": "2026-10-03T18:34:09.559Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643814"
-    },
-    {
       "id": 643961,
       "firstname": "Bridget",
       "surname": "KELLY",
@@ -29,8 +9,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/643961"
+    },
+    {
+      "id": 644350,
+      "firstname": "Margaret (Rita)",
+      "surname": "Martini",
+      "nee": "O'Halloran",
+      "createdAt": "2026-10-08T19:00:23.622Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/644350"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-08T22:05:18.481Z"
+  "updatedAt": "2026-10-09T02:11:13.494Z"
 }
