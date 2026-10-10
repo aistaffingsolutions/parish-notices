@@ -9,8 +9,28 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/644350"
+    },
+    {
+      "id": 644482,
+      "firstname": "Leeann",
+      "surname": "Graham",
+      "nee": "",
+      "createdAt": "2026-10-10T11:23:14.555Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/644482"
+    },
+    {
+      "id": 644484,
+      "firstname": "Paul (Dukie)",
+      "surname": "Drew",
+      "nee": "",
+      "createdAt": "2026-10-10T11:51:59.890Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/644484"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-10T07:09:32.988Z"
+  "updatedAt": "2026-10-10T13:44:03.084Z"
 }
