@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 643961,
-      "firstname": "Bridget",
-      "surname": "KELLY",
-      "nee": "",
-      "createdAt": "2026-10-05T14:49:55.342Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/643961"
-    },
-    {
       "id": 644350,
       "firstname": "Margaret (Rita)",
       "surname": "Martini",
@@ -22,5 +12,5 @@
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-09T20:57:17.446Z"
+  "updatedAt": "2026-10-10T00:52:50.987Z"
 }
