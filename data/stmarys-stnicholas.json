@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 644350,
-      "firstname": "Margaret (Rita)",
-      "surname": "Martini",
-      "nee": "O'Halloran",
-      "createdAt": "2026-10-08T19:00:23.622Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/644350"
-    },
-    {
       "id": 644482,
       "firstname": "Lee-Ann",
       "surname": "Graham",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/644484"
+    },
+    {
+      "id": 644591,
+      "firstname": "Sr. Frances",
+      "surname": "Hurley",
+      "nee": "",
+      "createdAt": "2026-10-11T16:43:27.989Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/644591"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-12T17:56:42.476Z"
+  "updatedAt": "2026-10-13T00:41:49.886Z"
 }
