@@ -1,36 +1,16 @@
 {
   "notices": [
     {
-      "id": 644040,
-      "firstname": "MARY",
-      "surname": "McMAHON",
+      "id": 644873,
+      "firstname": "JIm",
+      "surname": "Mullane",
       "nee": "",
-      "createdAt": "2026-10-06T10:28:46.238Z",
-      "town": "Caherdavin",
+      "createdAt": "2026-10-13T21:22:32.850Z",
+      "town": "Croagh",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/644040"
-    },
-    {
-      "id": 644040,
-      "firstname": "MARY",
-      "surname": "McMAHON",
-      "nee": "",
-      "createdAt": "2026-10-06T10:28:46.238Z",
-      "town": "Castletroy",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/644040"
-    },
-    {
-      "id": 644367,
-      "firstname": "Geraldine",
-      "surname": "Kerr",
-      "nee": "White",
-      "createdAt": "2026-10-09T07:54:49.186Z",
-      "town": "",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/644367"
+      "url": "https://rip.ie/death-notice/644873"
     }
   ],
-  "scope": "limerick",
-  "updatedAt": "2026-10-13T21:15:41.121Z"
+  "scope": "parish",
+  "updatedAt": "2026-10-14T00:21:14.839Z"
 }

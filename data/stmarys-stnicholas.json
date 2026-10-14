@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 644482,
-      "firstname": "Lee-Ann",
-      "surname": "Graham",
-      "nee": "",
-      "createdAt": "2026-10-10T14:27:14.905Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/644482"
-    },
-    {
       "id": 644484,
       "firstname": "Paul (Dukie)",
       "surname": "Drew",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/644591"
+    },
+    {
+      "id": 644670,
+      "firstname": "Mark",
+      "surname": "Richardson",
+      "nee": "",
+      "createdAt": "2026-10-12T13:55:05.242Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/644670"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-13T21:15:41.121Z"
+  "updatedAt": "2026-10-14T00:21:14.840Z"
 }
