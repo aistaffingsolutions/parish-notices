@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 644670,
-      "firstname": "Mark",
-      "surname": "Richardson",
-      "nee": "",
-      "createdAt": "2026-10-12T13:55:05.242Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/644670"
-    },
-    {
-      "id": 644672,
-      "firstname": "Dymphna",
-      "surname": "BURNS",
-      "nee": "ALLEN",
-      "createdAt": "2026-10-12T13:58:50.492Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/644672"
-    },
-    {
       "id": 644944,
       "firstname": "ANTHONY (TONY)",
       "surname": "FAHY",
@@ -29,8 +9,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/644944"
+    },
+    {
+      "id": 645016,
+      "firstname": "JOAN",
+      "surname": "McSWEENEY",
+      "nee": "CREMIN",
+      "createdAt": "2026-10-15T13:44:18.125Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645016"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-15T22:20:41.225Z"
+  "updatedAt": "2026-10-16T01:22:04.717Z"
 }
