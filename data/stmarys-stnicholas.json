@@ -19,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/645016"
+    },
+    {
+      "id": 645236,
+      "firstname": "Thecla",
+      "surname": "Hartmann",
+      "nee": "Deasy",
+      "createdAt": "2026-10-17T14:57:43.551Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645236"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-17T13:44:15.884Z"
+  "updatedAt": "2026-10-17T17:11:36.748Z"
 }
