@@ -1,16 +1,36 @@
 {
   "notices": [
     {
-      "id": 644873,
-      "firstname": "Jim",
-      "surname": "Mullane",
+      "id": 644988,
+      "firstname": "DEIRDRE",
+      "surname": "GALLAGHER",
       "nee": "",
-      "createdAt": "2026-10-13T21:22:32.850Z",
-      "town": "Croagh",
+      "createdAt": "2026-10-15T09:49:46.035Z",
+      "town": "Rosbrien",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/644873"
+      "url": "https://rip.ie/death-notice/644988"
+    },
+    {
+      "id": 645016,
+      "firstname": "JOAN",
+      "surname": "McSWEENEY",
+      "nee": "CREMIN",
+      "createdAt": "2026-10-15T13:44:18.125Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645016"
+    },
+    {
+      "id": 645041,
+      "firstname": "Desmond (Des)",
+      "surname": "CORCORAN",
+      "nee": "",
+      "createdAt": "2026-10-16T11:23:37.899Z",
+      "town": "Ballysheedy",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645041"
     }
   ],
-  "scope": "parish",
-  "updatedAt": "2026-10-17T22:20:14.678Z"
+  "scope": "limerick",
+  "updatedAt": "2026-10-18T01:03:42.842Z"
 }

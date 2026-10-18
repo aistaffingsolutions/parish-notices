@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 644944,
-      "firstname": "ANTHONY (TONY)",
-      "surname": "FAHY",
-      "nee": "",
-      "createdAt": "2026-10-14T16:46:40.114Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/644944"
-    },
-    {
       "id": 645016,
       "firstname": "JOAN",
       "surname": "McSWEENEY",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/645236"
+    },
+    {
+      "id": 645273,
+      "firstname": "Seamus (Seamie)",
+      "surname": "O'BRIEN",
+      "nee": "",
+      "createdAt": "2026-10-17T20:18:21.854Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645273"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-17T22:20:14.678Z"
+  "updatedAt": "2026-10-18T01:03:42.842Z"
 }
