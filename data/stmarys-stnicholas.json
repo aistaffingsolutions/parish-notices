@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 645236,
-      "firstname": "Thecla",
-      "surname": "Hartmann",
-      "nee": "Deasy",
-      "createdAt": "2026-10-17T14:57:43.551Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645236"
-    },
-    {
-      "id": 645273,
-      "firstname": "Seamus (Seamie)",
-      "surname": "O'BRIEN",
-      "nee": "",
-      "createdAt": "2026-10-17T20:18:21.854Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645273"
-    },
-    {
       "id": 645281,
       "firstname": "Donal",
       "surname": "REID",
@@ -29,8 +9,28 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/645281"
+    },
+    {
+      "id": 645387,
+      "firstname": "Eamon",
+      "surname": "KELLY",
+      "nee": "",
+      "createdAt": "2026-10-19T12:12:51.755Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645387"
+    },
+    {
+      "id": 645395,
+      "firstname": "William (Bill)",
+      "surname": "O’Shea",
+      "nee": "",
+      "createdAt": "2026-10-19T13:05:36.339Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645395"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-20T20:36:15.341Z"
+  "updatedAt": "2026-10-20T23:53:57.450Z"
 }

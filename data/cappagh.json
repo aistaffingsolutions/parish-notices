@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 645108,
-      "firstname": "Sr. Mary",
-      "surname": "Downey",
+      "id": 645274,
+      "firstname": "Patrick 'Pat'",
+      "surname": "O'Brien",
       "nee": "",
-      "createdAt": "2026-10-16T14:43:48.314Z",
-      "town": "Caherdavin",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645108"
-    },
-    {
-      "id": 645236,
-      "firstname": "Thecla",
-      "surname": "Hartmann",
-      "nee": "Deasy",
-      "createdAt": "2026-10-17T14:57:43.551Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645236"
-    },
-    {
-      "id": 645252,
-      "firstname": "Daniel (Dan)",
-      "surname": "McGrath",
-      "nee": "",
-      "createdAt": "2026-10-17T16:42:26.564Z",
+      "createdAt": "2026-10-17T20:53:00.639Z",
       "town": "",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645252"
+      "url": "https://rip.ie/death-notice/645274"
+    },
+    {
+      "id": 645276,
+      "firstname": "Kay (Catherine)",
+      "surname": "O' Dowd",
+      "nee": "Kenneally",
+      "createdAt": "2026-10-17T23:23:36.094Z",
+      "town": "Pallaskenry",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645276"
+    },
+    {
+      "id": 645276,
+      "firstname": "Kay (Catherine)",
+      "surname": "O' Dowd",
+      "nee": "Kenneally",
+      "createdAt": "2026-10-17T23:23:36.094Z",
+      "town": "Shanagolden",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645276"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-10-20T20:36:15.340Z"
+  "updatedAt": "2026-10-20T23:53:57.449Z"
 }
