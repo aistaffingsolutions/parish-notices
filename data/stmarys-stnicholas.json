@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 645016,
-      "firstname": "JOAN",
-      "surname": "McSWEENEY",
-      "nee": "CREMIN",
-      "createdAt": "2026-10-15T13:44:18.125Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645016"
-    },
-    {
       "id": 645236,
       "firstname": "Thecla",
       "surname": "Hartmann",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/645273"
+    },
+    {
+      "id": 645281,
+      "firstname": "Donal",
+      "surname": "REID",
+      "nee": "",
+      "createdAt": "2026-10-18T08:17:54.404Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645281"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-19T21:04:13.126Z"
+  "updatedAt": "2026-10-20T00:21:40.467Z"
 }
