@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 645281,
-      "firstname": "Donal",
-      "surname": "REID",
-      "nee": "",
-      "createdAt": "2026-10-18T08:17:54.404Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645281"
-    },
-    {
       "id": 645387,
       "firstname": "Eamon",
       "surname": "KELLY",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/645395"
+    },
+    {
+      "id": 645490,
+      "firstname": "ANTHONY (TONY)",
+      "surname": "CLOHESSY",
+      "nee": "",
+      "createdAt": "2026-10-20T11:19:05.892Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645490"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-21T19:21:00.356Z"
+  "updatedAt": "2026-10-21T23:20:57.405Z"
 }

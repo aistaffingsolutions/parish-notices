@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 645274,
-      "firstname": "Patrick 'Pat'",
-      "surname": "O'Brien",
-      "nee": "",
-      "createdAt": "2026-10-17T20:53:00.639Z",
-      "town": "",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645274"
-    },
-    {
       "id": 645276,
       "firstname": "Kay (Catherine)",
       "surname": "O' Dowd",
@@ -29,8 +19,18 @@
       "town": "Shanagolden",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/645276"
+    },
+    {
+      "id": 645372,
+      "firstname": "Patrick (Pat)",
+      "surname": "VAUGHAN",
+      "nee": "",
+      "createdAt": "2026-10-19T11:12:40.207Z",
+      "town": "Kileely",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645372"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-10-21T19:21:00.356Z"
+  "updatedAt": "2026-10-21T23:20:57.404Z"
 }
