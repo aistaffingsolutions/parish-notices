@@ -1,36 +1,26 @@
 {
   "notices": [
     {
-      "id": 645387,
-      "firstname": "Eamon",
-      "surname": "KELLY",
+      "id": 645560,
+      "firstname": "JAMIE",
+      "surname": "BAILEY",
       "nee": "",
-      "createdAt": "2026-10-19T12:12:51.755Z",
+      "createdAt": "2026-10-22T10:35:44.366Z",
       "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645387"
+      "url": "https://rip.ie/death-notice/645560"
     },
     {
-      "id": 645395,
-      "firstname": "William (Bill)",
-      "surname": "O’Shea",
+      "id": 645744,
+      "firstname": "Gerard",
+      "surname": "Cummins",
       "nee": "",
-      "createdAt": "2026-10-19T13:05:36.339Z",
+      "createdAt": "2026-10-22T12:29:23.469Z",
       "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645395"
-    },
-    {
-      "id": 645490,
-      "firstname": "ANTHONY (TONY)",
-      "surname": "CLOHESSY",
-      "nee": "",
-      "createdAt": "2026-10-20T11:19:05.892Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645490"
+      "url": "https://rip.ie/death-notice/645744"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-22T20:07:54.808Z"
+  "updatedAt": "2026-10-22T23:23:33.241Z"
 }

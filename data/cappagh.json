@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 645276,
-      "firstname": "Kay (Catherine)",
-      "surname": "O' Dowd",
-      "nee": "Kenneally",
-      "createdAt": "2026-10-17T23:23:36.094Z",
-      "town": "Pallaskenry",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645276"
-    },
-    {
-      "id": 645276,
-      "firstname": "Kay (Catherine)",
-      "surname": "O' Dowd",
-      "nee": "Kenneally",
-      "createdAt": "2026-10-17T23:23:36.094Z",
-      "town": "Shanagolden",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645276"
-    },
-    {
       "id": 645372,
       "firstname": "Patrick (Pat)",
       "surname": "VAUGHAN",
@@ -29,8 +9,28 @@
       "town": "Kileely",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/645372"
+    },
+    {
+      "id": 645382,
+      "firstname": "Joan",
+      "surname": "Geary",
+      "nee": "Reddan",
+      "createdAt": "2026-10-19T11:53:56.516Z",
+      "town": "South Circular Road",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645382"
+    },
+    {
+      "id": 645477,
+      "firstname": "Sister Katherine FCJ",
+      "surname": "Frost",
+      "nee": "",
+      "createdAt": "2026-10-20T09:01:14.444Z",
+      "town": "",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645477"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-10-22T20:07:54.807Z"
+  "updatedAt": "2026-10-22T23:23:33.240Z"
 }
