@@ -11,16 +11,6 @@
       "url": "https://rip.ie/death-notice/645372"
     },
     {
-      "id": 645382,
-      "firstname": "Joan",
-      "surname": "Geary",
-      "nee": "Reddan",
-      "createdAt": "2026-10-19T11:53:56.516Z",
-      "town": "South Circular Road",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645382"
-    },
-    {
       "id": 645477,
       "firstname": "Sister Katherine FCJ",
       "surname": "Frost",
@@ -29,8 +19,18 @@
       "town": "",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/645477"
+    },
+    {
+      "id": 645558,
+      "firstname": "Margaret",
+      "surname": "Browne",
+      "nee": "",
+      "createdAt": "2026-10-20T16:47:12.491Z",
+      "town": "Bruff",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645558"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-10-23T22:16:13.341Z"
+  "updatedAt": "2026-10-24T00:46:59.991Z"
 }
