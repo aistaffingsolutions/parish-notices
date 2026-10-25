@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 645372,
-      "firstname": "Patrick (Pat)",
-      "surname": "VAUGHAN",
-      "nee": "",
-      "createdAt": "2026-10-19T11:12:40.207Z",
-      "town": "Kileely",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645372"
-    },
-    {
       "id": 645477,
       "firstname": "Sister Katherine FCJ",
       "surname": "Frost",
@@ -21,16 +11,26 @@
       "url": "https://rip.ie/death-notice/645477"
     },
     {
-      "id": 645558,
-      "firstname": "Margaret",
-      "surname": "Browne",
+      "id": 645560,
+      "firstname": "JAMIE",
+      "surname": "BAILEY",
       "nee": "",
-      "createdAt": "2026-10-20T16:47:12.491Z",
-      "town": "Bruff",
+      "createdAt": "2026-10-22T10:35:44.366Z",
+      "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645558"
+      "url": "https://rip.ie/death-notice/645560"
+    },
+    {
+      "id": 645630,
+      "firstname": "George",
+      "surname": "Dixon",
+      "nee": "",
+      "createdAt": "2026-10-21T13:03:44.325Z",
+      "town": "Askeaton",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645630"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-10-25T06:15:09.366Z"
+  "updatedAt": "2026-10-25T11:41:26.505Z"
 }

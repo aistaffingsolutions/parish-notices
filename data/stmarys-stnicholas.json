@@ -11,16 +11,6 @@
       "url": "https://rip.ie/death-notice/645560"
     },
     {
-      "id": 645744,
-      "firstname": "Gerard",
-      "surname": "Cummins",
-      "nee": "",
-      "createdAt": "2026-10-22T12:29:23.469Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645744"
-    },
-    {
       "id": 645837,
       "firstname": "James (Jimmy)",
       "surname": "POWER",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/645837"
+    },
+    {
+      "id": 645869,
+      "firstname": "John",
+      "surname": "MOORE",
+      "nee": "",
+      "createdAt": "2026-10-23T15:06:07.836Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645869"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-25T06:15:09.366Z"
+  "updatedAt": "2026-10-25T11:41:26.505Z"
 }
