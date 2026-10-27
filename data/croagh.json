@@ -11,16 +11,6 @@
       "url": "https://rip.ie/death-notice/645477"
     },
     {
-      "id": 645560,
-      "firstname": "JAMIE",
-      "surname": "BAILEY",
-      "nee": "",
-      "createdAt": "2026-10-22T10:35:44.366Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645560"
-    },
-    {
       "id": 645630,
       "firstname": "George",
       "surname": "Dixon",
@@ -29,8 +19,18 @@
       "town": "Askeaton",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/645630"
+    },
+    {
+      "id": 645828,
+      "firstname": "Carmel",
+      "surname": "KEATING",
+      "nee": "HOWARD",
+      "createdAt": "2026-10-23T10:13:14.714Z",
+      "town": "Garryowen",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645828"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-10-27T05:07:29.224Z"
+  "updatedAt": "2026-10-27T10:36:04.912Z"
 }

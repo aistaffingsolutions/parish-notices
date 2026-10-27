@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 645560,
-      "firstname": "JAMIE",
-      "surname": "BAILEY",
-      "nee": "",
-      "createdAt": "2026-10-22T10:35:44.366Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645560"
-    },
-    {
       "id": 645837,
       "firstname": "James (Jimmy)",
       "surname": "POWER",
@@ -25,12 +15,22 @@
       "firstname": "John",
       "surname": "MOORE",
       "nee": "",
-      "createdAt": "2026-10-23T15:06:07.836Z",
+      "createdAt": "2026-10-27T10:05:44.724Z",
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/645869"
+    },
+    {
+      "id": 645875,
+      "firstname": "David",
+      "surname": "MCNAMARA",
+      "nee": "",
+      "createdAt": "2026-10-23T15:39:12.260Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/645875"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-27T05:07:29.224Z"
+  "updatedAt": "2026-10-27T10:36:04.912Z"
 }
