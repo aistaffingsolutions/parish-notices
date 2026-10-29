@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 645869,
-      "firstname": "John",
-      "surname": "MOORE",
-      "nee": "",
-      "createdAt": "2026-10-27T10:05:44.724Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645869"
-    },
-    {
-      "id": 645875,
-      "firstname": "David",
-      "surname": "MCNAMARA",
-      "nee": "",
-      "createdAt": "2026-10-23T15:39:12.260Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645875"
-    },
-    {
       "id": 645977,
       "firstname": "Michael",
       "surname": "CAREY",
@@ -29,8 +9,28 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/645977"
+    },
+    {
+      "id": 646040,
+      "firstname": "Patrick (Paddy)",
+      "surname": "Mulcahy",
+      "nee": "",
+      "createdAt": "2026-10-25T16:50:42.304Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/646040"
+    },
+    {
+      "id": 646102,
+      "firstname": "Gavin",
+      "surname": "FITZGERALD",
+      "nee": "",
+      "createdAt": "2026-10-26T13:03:40.572Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/646102"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-28T21:06:30.471Z"
+  "updatedAt": "2026-10-29T00:58:32.229Z"
 }
