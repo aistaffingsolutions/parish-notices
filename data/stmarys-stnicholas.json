@@ -19,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/646102"
+    },
+    {
+      "id": 646586,
+      "firstname": "Donal",
+      "surname": "Quinn",
+      "nee": "",
+      "createdAt": "2026-10-30T15:09:58.734Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/646586"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-30T14:10:36.316Z"
+  "updatedAt": "2026-10-30T19:23:56.005Z"
 }
