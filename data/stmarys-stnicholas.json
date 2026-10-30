@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 645977,
-      "firstname": "Michael",
-      "surname": "CAREY",
-      "nee": "",
-      "createdAt": "2026-10-24T16:27:19.034Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645977"
-    },
-    {
       "id": 646040,
       "firstname": "Patrick (Paddy)",
       "surname": "Mulcahy",
@@ -32,5 +22,5 @@
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-29T20:18:51.708Z"
+  "updatedAt": "2026-10-30T01:01:06.835Z"
 }
