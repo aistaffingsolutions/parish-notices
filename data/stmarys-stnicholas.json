@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 646040,
-      "firstname": "Patrick (Paddy)",
-      "surname": "Mulcahy",
-      "nee": "",
-      "createdAt": "2026-10-25T16:50:42.304Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/646040"
-    },
-    {
-      "id": 646102,
-      "firstname": "Gavin",
-      "surname": "FITZGERALD",
-      "nee": "",
-      "createdAt": "2026-10-26T13:03:40.572Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/646102"
-    },
-    {
       "id": 646586,
       "firstname": "Donal",
       "surname": "Quinn",
@@ -32,5 +12,5 @@
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-10-30T23:48:05.076Z"
+  "updatedAt": "2026-10-31T05:43:43.791Z"
 }
