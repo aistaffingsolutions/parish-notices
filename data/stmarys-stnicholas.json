@@ -9,8 +9,28 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/646586"
+    },
+    {
+      "id": 646824,
+      "firstname": "Noeleen",
+      "surname": "SLATTERY",
+      "nee": "HAYES",
+      "createdAt": "2026-11-02T11:13:28.302Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/646824"
+    },
+    {
+      "id": 646875,
+      "firstname": "Stephen (Jerome)",
+      "surname": "RICE",
+      "nee": "",
+      "createdAt": "2026-11-02T15:48:40.641Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/646875"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-11-02T06:06:29.265Z"
+  "updatedAt": "2026-11-02T15:56:23.399Z"
 }
