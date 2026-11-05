@@ -11,16 +11,6 @@
       "url": "https://rip.ie/death-notice/645477"
     },
     {
-      "id": 645630,
-      "firstname": "George",
-      "surname": "Dixon",
-      "nee": "",
-      "createdAt": "2026-10-21T13:03:44.325Z",
-      "town": "Askeaton",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645630"
-    },
-    {
       "id": 646175,
       "firstname": "Gavin",
       "surname": "McInerney",
@@ -29,8 +19,18 @@
       "town": "Kennedy Park",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/646175"
+    },
+    {
+      "id": 646824,
+      "firstname": "Noeleen",
+      "surname": "SLATTERY",
+      "nee": "HAYES",
+      "createdAt": "2026-11-02T11:13:28.302Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/646824"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-11-04T23:40:36.279Z"
+  "updatedAt": "2026-11-05T06:48:41.370Z"
 }
