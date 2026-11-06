@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 646824,
-      "firstname": "Noeleen",
-      "surname": "SLATTERY",
-      "nee": "HAYES",
-      "createdAt": "2026-11-02T11:13:28.302Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/646824"
-    },
-    {
-      "id": 646875,
-      "firstname": "Stephen (Jerome)",
-      "surname": "RICE",
-      "nee": "",
-      "createdAt": "2026-11-02T15:48:40.641Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/646875"
-    },
-    {
       "id": 646906,
       "firstname": "PÁDRAIC (PADDY)",
       "surname": "O'MALLEY",
@@ -29,8 +9,28 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/646906"
+    },
+    {
+      "id": 647132,
+      "firstname": "GERALDINE",
+      "surname": "NEWMAN",
+      "nee": "Cremins",
+      "createdAt": "2026-11-04T20:47:45.051Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647132"
+    },
+    {
+      "id": 647194,
+      "firstname": "Fachtna",
+      "surname": "O’Donovan",
+      "nee": "",
+      "createdAt": "2026-11-05T14:21:11.210Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647194"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-11-05T21:59:42.354Z"
+  "updatedAt": "2026-11-06T02:27:59.069Z"
 }

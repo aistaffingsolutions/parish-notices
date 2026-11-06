@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 645477,
-      "firstname": "Sister Katherine FCJ",
-      "surname": "Frost",
-      "nee": "",
-      "createdAt": "2026-10-20T09:01:14.444Z",
-      "town": "",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/645477"
-    },
-    {
       "id": 646175,
       "firstname": "Gavin",
       "surname": "McInerney",
@@ -21,16 +11,26 @@
       "url": "https://rip.ie/death-notice/646175"
     },
     {
-      "id": 646824,
-      "firstname": "Noeleen",
-      "surname": "SLATTERY",
-      "nee": "HAYES",
-      "createdAt": "2026-11-02T11:13:28.302Z",
+      "id": 646906,
+      "firstname": "PÁDRAIC (PADDY)",
+      "surname": "O'MALLEY",
+      "nee": "",
+      "createdAt": "2026-11-02T17:32:11.396Z",
       "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/646824"
+      "url": "https://rip.ie/death-notice/646906"
+    },
+    {
+      "id": 646906,
+      "firstname": "PÁDRAIC (PADDY)",
+      "surname": "O'MALLEY",
+      "nee": "",
+      "createdAt": "2026-11-02T17:32:11.396Z",
+      "town": "Cappamore",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/646906"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-11-05T21:59:42.353Z"
+  "updatedAt": "2026-11-06T02:27:59.068Z"
 }
