@@ -1,16 +1,36 @@
 {
   "notices": [
     {
-      "id": 647087,
-      "firstname": "Eileen",
-      "surname": "Daffy",
-      "nee": "Neville",
-      "createdAt": "2026-11-04T14:14:46.949Z",
-      "town": "Croagh",
+      "id": 647082,
+      "firstname": "Desmond",
+      "surname": "O’Connor",
+      "nee": "",
+      "createdAt": "2026-11-04T13:39:57.992Z",
+      "town": "Rathbane",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647087"
+      "url": "https://rip.ie/death-notice/647082"
+    },
+    {
+      "id": 647140,
+      "firstname": "Joan",
+      "surname": "Lane",
+      "nee": "Delee",
+      "createdAt": "2026-11-05T05:48:05.831Z",
+      "town": "Castlemahon",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647140"
+    },
+    {
+      "id": 647140,
+      "firstname": "Joan",
+      "surname": "Lane",
+      "nee": "Delee",
+      "createdAt": "2026-11-05T05:48:05.831Z",
+      "town": "Newcastle West",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647140"
     }
   ],
-  "scope": "parish",
-  "updatedAt": "2026-11-06T17:58:31.331Z"
+  "scope": "limerick",
+  "updatedAt": "2026-11-07T02:49:15.343Z"
 }

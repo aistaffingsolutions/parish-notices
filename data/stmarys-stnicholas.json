@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 646906,
-      "firstname": "PÁDRAIC (PADDY)",
-      "surname": "O'MALLEY",
-      "nee": "",
-      "createdAt": "2026-11-02T17:32:11.396Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/646906"
-    },
-    {
-      "id": 647132,
-      "firstname": "GERALDINE",
-      "surname": "NEWMAN",
-      "nee": "Cremins",
-      "createdAt": "2026-11-04T20:47:45.051Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647132"
-    },
-    {
       "id": 647194,
       "firstname": "Fachtna",
       "surname": "O’Donovan",
@@ -29,8 +9,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/647194"
+    },
+    {
+      "id": 647298,
+      "firstname": "Mary",
+      "surname": "TROY",
+      "nee": "MCGRATH",
+      "createdAt": "2026-11-06T14:38:44.573Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647298"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-11-06T17:58:31.331Z"
+  "updatedAt": "2026-11-07T02:49:15.343Z"
 }

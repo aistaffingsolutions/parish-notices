@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 646175,
-      "firstname": "Gavin",
-      "surname": "McInerney",
+      "id": 647082,
+      "firstname": "Desmond",
+      "surname": "O’Connor",
       "nee": "",
-      "createdAt": "2026-10-27T10:36:57.325Z",
-      "town": "Kennedy Park",
+      "createdAt": "2026-11-04T13:39:57.992Z",
+      "town": "Rathbane",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/646175"
+      "url": "https://rip.ie/death-notice/647082"
     },
     {
-      "id": 646906,
-      "firstname": "PÁDRAIC (PADDY)",
-      "surname": "O'MALLEY",
-      "nee": "",
-      "createdAt": "2026-11-02T17:32:11.396Z",
-      "town": "Limerick City",
+      "id": 647140,
+      "firstname": "Joan",
+      "surname": "Lane",
+      "nee": "Delee",
+      "createdAt": "2026-11-05T05:48:05.831Z",
+      "town": "Castlemahon",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/646906"
+      "url": "https://rip.ie/death-notice/647140"
     },
     {
-      "id": 646906,
-      "firstname": "PÁDRAIC (PADDY)",
-      "surname": "O'MALLEY",
-      "nee": "",
-      "createdAt": "2026-11-02T17:32:11.396Z",
-      "town": "Cappamore",
+      "id": 647140,
+      "firstname": "Joan",
+      "surname": "Lane",
+      "nee": "Delee",
+      "createdAt": "2026-11-05T05:48:05.831Z",
+      "town": "Newcastle West",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/646906"
+      "url": "https://rip.ie/death-notice/647140"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-11-06T17:58:31.330Z"
+  "updatedAt": "2026-11-07T02:49:15.342Z"
 }
