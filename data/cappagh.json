@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 647082,
-      "firstname": "Desmond",
-      "surname": "O’Connor",
+      "id": 647152,
+      "firstname": "Ada",
+      "surname": "Mortell",
+      "nee": "Dennehy",
+      "createdAt": "2026-11-05T10:38:41.600Z",
+      "town": "Kilmallock",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647152"
+    },
+    {
+      "id": 647194,
+      "firstname": "Fachtna",
+      "surname": "O’Donovan",
       "nee": "",
-      "createdAt": "2026-11-04T13:39:57.992Z",
-      "town": "Rathbane",
+      "createdAt": "2026-11-05T14:21:11.210Z",
+      "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647082"
+      "url": "https://rip.ie/death-notice/647194"
     },
     {
-      "id": 647140,
-      "firstname": "Joan",
-      "surname": "Lane",
-      "nee": "Delee",
-      "createdAt": "2026-11-05T05:48:05.831Z",
-      "town": "Castlemahon",
+      "id": 647252,
+      "firstname": "Dermot",
+      "surname": "Dilger",
+      "nee": "",
+      "createdAt": "2026-11-05T21:23:43.154Z",
+      "town": "Doon",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647140"
-    },
-    {
-      "id": 647140,
-      "firstname": "Joan",
-      "surname": "Lane",
-      "nee": "Delee",
-      "createdAt": "2026-11-05T05:48:05.831Z",
-      "town": "Newcastle West",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647140"
+      "url": "https://rip.ie/death-notice/647252"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-11-07T20:53:47.951Z"
+  "updatedAt": "2026-11-08T00:37:52.185Z"
 }
