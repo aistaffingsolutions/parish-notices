@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 647152,
-      "firstname": "Ada",
-      "surname": "Mortell",
-      "nee": "Dennehy",
-      "createdAt": "2026-11-05T10:38:41.600Z",
-      "town": "Kilmallock",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647152"
-    },
-    {
       "id": 647194,
       "firstname": "Fachtna",
       "surname": "O’Donovan",
@@ -21,16 +11,26 @@
       "url": "https://rip.ie/death-notice/647194"
     },
     {
-      "id": 647252,
-      "firstname": "Dermot",
-      "surname": "Dilger",
-      "nee": "",
-      "createdAt": "2026-11-05T21:23:43.154Z",
-      "town": "Doon",
+      "id": 647298,
+      "firstname": "Mary",
+      "surname": "TROY",
+      "nee": "MCGRATH",
+      "createdAt": "2026-11-06T14:38:44.573Z",
+      "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647252"
+      "url": "https://rip.ie/death-notice/647298"
+    },
+    {
+      "id": 647309,
+      "firstname": "DAVID (BEANO)",
+      "surname": "WHELAN",
+      "nee": "",
+      "createdAt": "2026-11-06T15:44:46.748Z",
+      "town": "Ballynanty",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647309"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-11-08T23:43:52.524Z"
+  "updatedAt": "2026-11-09T06:33:14.339Z"
 }
