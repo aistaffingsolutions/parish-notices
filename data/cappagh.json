@@ -11,16 +11,6 @@
       "url": "https://rip.ie/death-notice/647194"
     },
     {
-      "id": 647298,
-      "firstname": "Mary",
-      "surname": "TROY",
-      "nee": "MCGRATH",
-      "createdAt": "2026-11-06T14:38:44.573Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647298"
-    },
-    {
       "id": 647309,
       "firstname": "DAVID (BEANO)",
       "surname": "WHELAN",
@@ -29,8 +19,18 @@
       "town": "Ballynanty",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/647309"
+    },
+    {
+      "id": 647376,
+      "firstname": "Kay",
+      "surname": "Noël",
+      "nee": "Moriarty",
+      "createdAt": "2026-11-07T12:07:47.242Z",
+      "town": "Croom",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647376"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-11-09T17:31:04.449Z"
+  "updatedAt": "2026-11-10T01:33:02.357Z"
 }
