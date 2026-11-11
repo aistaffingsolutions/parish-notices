@@ -1,36 +1,16 @@
 {
   "notices": [
     {
-      "id": 647440,
-      "firstname": "Maurice (Mossy)",
-      "surname": "Leahy",
+      "id": 647869,
+      "firstname": "Conan",
+      "surname": "Cassidy",
       "nee": "",
-      "createdAt": "2026-11-09T14:41:19.842Z",
-      "town": "Ballysimon",
+      "createdAt": "2026-11-11T17:28:27.270Z",
+      "town": "Cappagh",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647440"
-    },
-    {
-      "id": 647470,
-      "firstname": "John (JJ)",
-      "surname": "Dolan",
-      "nee": "",
-      "createdAt": "2026-11-08T10:39:46.486Z",
-      "town": "Kilcornan",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647470"
-    },
-    {
-      "id": 647518,
-      "firstname": "Carol",
-      "surname": "O’Connor",
-      "nee": "Liston",
-      "createdAt": "2026-11-08T20:13:48.344Z",
-      "town": "Dromcollogher",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647518"
+      "url": "https://rip.ie/death-notice/647869"
     }
   ],
-  "scope": "limerick",
-  "updatedAt": "2026-11-11T15:14:43.911Z"
+  "scope": "parish",
+  "updatedAt": "2026-11-11T21:59:33.945Z"
 }
