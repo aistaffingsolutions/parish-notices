@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 647194,
-      "firstname": "Fachtna",
-      "surname": "O’Donovan",
-      "nee": "",
-      "createdAt": "2026-11-05T14:21:11.210Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647194"
-    },
-    {
       "id": 647585,
       "firstname": "Samantha",
       "surname": "HUGHES",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/647683"
+    },
+    {
+      "id": 647735,
+      "firstname": "Tony",
+      "surname": "MORAN-STANNERS",
+      "nee": "",
+      "createdAt": "2026-11-10T16:42:05.898Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647735"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-11-10T23:24:07.206Z"
+  "updatedAt": "2026-11-11T06:24:24.336Z"
 }
