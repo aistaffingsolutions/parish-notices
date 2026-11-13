@@ -1,16 +1,36 @@
 {
   "notices": [
     {
-      "id": 647869,
-      "firstname": "Conan",
-      "surname": "Cassidy",
+      "id": 647527,
+      "firstname": "Melody Lorraine",
+      "surname": "Nickel",
       "nee": "",
-      "createdAt": "2026-11-11T17:28:27.270Z",
-      "town": "Cappagh",
+      "createdAt": "2026-11-09T09:42:12.345Z",
+      "town": "Ballysheedy",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647869"
+      "url": "https://rip.ie/death-notice/647527"
+    },
+    {
+      "id": 647540,
+      "firstname": "Rita",
+      "surname": "Fitzpatrick",
+      "nee": "McGoldrick",
+      "createdAt": "2026-11-09T11:39:25.958Z",
+      "town": "Mungret",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647540"
+    },
+    {
+      "id": 647585,
+      "firstname": "Samantha",
+      "surname": "HUGHES",
+      "nee": "",
+      "createdAt": "2026-11-09T15:07:30.094Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647585"
     }
   ],
-  "scope": "parish",
-  "updatedAt": "2026-11-12T18:57:56.199Z"
+  "scope": "limerick",
+  "updatedAt": "2026-11-13T00:26:21.759Z"
 }
