@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 647585,
-      "firstname": "Samantha",
-      "surname": "HUGHES",
-      "nee": "",
-      "createdAt": "2026-11-09T15:07:30.094Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647585"
-    },
-    {
       "id": 647683,
       "firstname": "Carrie",
       "surname": "MULLANE-NOONAN",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/647735"
+    },
+    {
+      "id": 647814,
+      "firstname": "Patrick (Paddy)",
+      "surname": "KIELY",
+      "nee": "",
+      "createdAt": "2026-11-11T12:25:29.211Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647814"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-11-13T22:38:54.660Z"
+  "updatedAt": "2026-11-14T03:17:10.176Z"
 }
