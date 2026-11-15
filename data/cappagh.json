@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 647527,
-      "firstname": "Melody Lorraine",
-      "surname": "Nickel",
-      "nee": "",
-      "createdAt": "2026-11-09T09:42:12.345Z",
-      "town": "Ballysheedy",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647527"
-    },
-    {
       "id": 647622,
       "firstname": "Monsignor William",
       "surname": "Nix",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/647683"
+    },
+    {
+      "id": 647735,
+      "firstname": "Tony",
+      "surname": "MORAN-STANNERS",
+      "nee": "",
+      "createdAt": "2026-11-10T16:42:05.898Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647735"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-11-14T21:30:43.522Z"
+  "updatedAt": "2026-11-15T01:56:29.838Z"
 }
