@@ -1,26 +1,36 @@
 {
   "notices": [
     {
-      "id": 647683,
-      "firstname": "Carrie",
-      "surname": "MULLANE-NOONAN",
+      "id": 647952,
+      "firstname": "Ellen (Eileen)",
+      "surname": "Guerin",
       "nee": "",
-      "createdAt": "2026-11-10T12:23:47.529Z",
-      "town": "Limerick City",
+      "createdAt": "2026-11-14T13:25:19.046Z",
+      "town": "Tournafulla",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647683"
+      "url": "https://rip.ie/death-notice/647952"
     },
     {
-      "id": 647735,
-      "firstname": "Tony",
-      "surname": "MORAN-STANNERS",
+      "id": 647952,
+      "firstname": "Ellen (Eileen)",
+      "surname": "Guerin",
       "nee": "",
-      "createdAt": "2026-11-10T16:42:05.898Z",
-      "town": "Limerick City",
+      "createdAt": "2026-11-14T13:25:19.046Z",
+      "town": "Galbally",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647735"
+      "url": "https://rip.ie/death-notice/647952"
+    },
+    {
+      "id": 647957,
+      "firstname": "Kenneth (Ken)",
+      "surname": "Jones",
+      "nee": "",
+      "createdAt": "2026-11-12T15:05:16.367Z",
+      "town": "Caherdavin",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/647957"
     }
   ],
-  "scope": "parish",
-  "updatedAt": "2026-11-15T21:50:39.940Z"
+  "scope": "limerick",
+  "updatedAt": "2026-11-16T02:10:23.213Z"
 }
