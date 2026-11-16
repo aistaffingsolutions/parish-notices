@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 647952,
-      "firstname": "Ellen (Eileen)",
-      "surname": "Guerin",
+      "id": 647683,
+      "firstname": "Carrie",
+      "surname": "MULLANE-NOONAN",
       "nee": "",
-      "createdAt": "2026-11-14T13:25:19.046Z",
-      "town": "Tournafulla",
+      "createdAt": "2026-11-16T12:46:52.570Z",
+      "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647952"
+      "url": "https://rip.ie/death-notice/647683"
     },
     {
-      "id": 647952,
-      "firstname": "Ellen (Eileen)",
-      "surname": "Guerin",
+      "id": 648248,
+      "firstname": "GERARD (GER)",
+      "surname": "HOWARD",
       "nee": "",
-      "createdAt": "2026-11-14T13:25:19.046Z",
-      "town": "Galbally",
+      "createdAt": "2026-11-15T16:27:17.076Z",
+      "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647952"
+      "url": "https://rip.ie/death-notice/648248"
     },
     {
-      "id": 647957,
-      "firstname": "Kenneth (Ken)",
-      "surname": "Jones",
-      "nee": "",
-      "createdAt": "2026-11-12T15:05:16.367Z",
-      "town": "Caherdavin",
+      "id": 648320,
+      "firstname": "Johanna (Josie)",
+      "surname": "Heffernan",
+      "nee": "Bowe",
+      "createdAt": "2026-11-16T13:50:20.144Z",
+      "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/647957"
+      "url": "https://rip.ie/death-notice/648320"
     }
   ],
-  "scope": "limerick",
-  "updatedAt": "2026-11-16T09:46:23.433Z"
+  "scope": "parish",
+  "updatedAt": "2026-11-16T20:29:59.022Z"
 }
