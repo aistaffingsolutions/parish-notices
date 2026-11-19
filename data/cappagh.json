@@ -1,36 +1,16 @@
 {
   "notices": [
     {
-      "id": 648248,
-      "firstname": "GERARD (GER)",
-      "surname": "HOWARD",
+      "id": 648789,
+      "firstname": "James",
+      "surname": "Roche",
       "nee": "",
-      "createdAt": "2026-11-15T16:27:17.076Z",
-      "town": "Limerick City",
+      "createdAt": "2026-11-19T19:49:49.356Z",
+      "town": "Cappagh",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648248"
-    },
-    {
-      "id": 648320,
-      "firstname": "Johanna (Josie)",
-      "surname": "Heffernan",
-      "nee": "Bowe",
-      "createdAt": "2026-11-16T13:50:20.144Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648320"
-    },
-    {
-      "id": 648336,
-      "firstname": "Eileen",
-      "surname": "Moloney",
-      "nee": "O'Grady",
-      "createdAt": "2026-11-16T15:00:42.578Z",
-      "town": "Croom",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648336"
+      "url": "https://rip.ie/death-notice/648789"
     }
   ],
-  "scope": "limerick",
-  "updatedAt": "2026-11-19T13:11:01.459Z"
+  "scope": "parish",
+  "updatedAt": "2026-11-19T21:36:47.269Z"
 }
