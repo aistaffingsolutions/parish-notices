@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 648248,
-      "firstname": "GERARD (GER)",
-      "surname": "HOWARD",
-      "nee": "",
-      "createdAt": "2026-11-15T16:27:17.076Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648248"
-    },
-    {
-      "id": 648320,
-      "firstname": "Johanna (Josie)",
-      "surname": "Heffernan",
-      "nee": "Bowe",
-      "createdAt": "2026-11-16T13:50:20.144Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648320"
-    },
-    {
       "id": 648425,
       "firstname": "Patrick (Pa)",
       "surname": "KENNEDY",
@@ -29,8 +9,28 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/648425"
+    },
+    {
+      "id": 648549,
+      "firstname": "MARY",
+      "surname": "KENNEDY",
+      "nee": "O'Keeffe",
+      "createdAt": "2026-11-18T13:12:20.076Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/648549"
+    },
+    {
+      "id": 648554,
+      "firstname": "MICHAEL (BLACKIE)",
+      "surname": "O'NEILL",
+      "nee": "",
+      "createdAt": "2026-11-18T13:45:08.736Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/648554"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-11-19T21:36:47.270Z"
+  "updatedAt": "2026-11-20T03:17:27.431Z"
 }
