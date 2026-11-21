@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 648425,
-      "firstname": "Patrick (Pa)",
-      "surname": "KENNEDY",
-      "nee": "",
-      "createdAt": "2026-11-17T12:25:45.249Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648425"
-    },
-    {
       "id": 648549,
       "firstname": "MARY",
       "surname": "KENNEDY",
@@ -29,8 +19,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/648554"
+    },
+    {
+      "id": 648562,
+      "firstname": "Frank",
+      "surname": "Hayes",
+      "nee": "",
+      "createdAt": "2026-11-18T14:36:17.350Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/648562"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-11-20T21:06:26.826Z"
+  "updatedAt": "2026-11-21T02:17:10.505Z"
 }

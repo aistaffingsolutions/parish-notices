@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 648336,
-      "firstname": "Eileen",
-      "surname": "Moloney",
-      "nee": "O'Grady",
-      "createdAt": "2026-11-16T15:00:42.578Z",
-      "town": "Croom",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648336"
-    },
-    {
-      "id": 648337,
-      "firstname": "Irene",
-      "surname": "Corkery",
-      "nee": "O’Beirne",
-      "createdAt": "2026-11-16T15:05:19.977Z",
-      "town": "Greenfields",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648337"
-    },
-    {
-      "id": 648425,
-      "firstname": "Patrick (Pa)",
-      "surname": "KENNEDY",
+      "id": 648466,
+      "firstname": "MICHAEL",
+      "surname": "SWEENEY",
       "nee": "",
-      "createdAt": "2026-11-17T12:25:45.249Z",
+      "createdAt": "2026-11-17T16:27:09.539Z",
+      "town": "Corbally",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/648466"
+    },
+    {
+      "id": 648477,
+      "firstname": "Sharon",
+      "surname": "Barron",
+      "nee": "",
+      "createdAt": "2026-11-17T17:33:51.962Z",
+      "town": "Crecora",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/648477"
+    },
+    {
+      "id": 648549,
+      "firstname": "MARY",
+      "surname": "KENNEDY",
+      "nee": "O'Keeffe",
+      "createdAt": "2026-11-18T13:12:20.076Z",
       "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648425"
+      "url": "https://rip.ie/death-notice/648549"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-11-20T21:06:26.825Z"
+  "updatedAt": "2026-11-21T02:17:10.505Z"
 }

@@ -1,16 +1,36 @@
 {
   "notices": [
     {
-      "id": 648789,
-      "firstname": "James",
-      "surname": "Roche",
+      "id": 648466,
+      "firstname": "MICHAEL",
+      "surname": "SWEENEY",
       "nee": "",
-      "createdAt": "2026-11-19T19:49:49.356Z",
-      "town": "Cappagh",
+      "createdAt": "2026-11-17T16:27:09.539Z",
+      "town": "Corbally",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648789"
+      "url": "https://rip.ie/death-notice/648466"
+    },
+    {
+      "id": 648477,
+      "firstname": "Sharon",
+      "surname": "Barron",
+      "nee": "",
+      "createdAt": "2026-11-17T17:33:51.962Z",
+      "town": "Crecora",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/648477"
+    },
+    {
+      "id": 648549,
+      "firstname": "MARY",
+      "surname": "KENNEDY",
+      "nee": "O'Keeffe",
+      "createdAt": "2026-11-18T13:12:20.076Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/648549"
     }
   ],
-  "scope": "parish",
-  "updatedAt": "2026-11-20T21:06:26.825Z"
+  "scope": "limerick",
+  "updatedAt": "2026-11-21T02:17:10.505Z"
 }
