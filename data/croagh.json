@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 648466,
-      "firstname": "MICHAEL",
-      "surname": "SWEENEY",
+      "id": 648562,
+      "firstname": "Frank",
+      "surname": "Hayes",
       "nee": "",
-      "createdAt": "2026-11-17T16:27:09.539Z",
-      "town": "Corbally",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648466"
-    },
-    {
-      "id": 648477,
-      "firstname": "Sharon",
-      "surname": "Barron",
-      "nee": "",
-      "createdAt": "2026-11-17T17:33:51.962Z",
-      "town": "Crecora",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648477"
-    },
-    {
-      "id": 648549,
-      "firstname": "MARY",
-      "surname": "KENNEDY",
-      "nee": "O'Keeffe",
-      "createdAt": "2026-11-18T13:12:20.076Z",
+      "createdAt": "2026-11-18T14:36:17.350Z",
       "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648549"
+      "url": "https://rip.ie/death-notice/648562"
+    },
+    {
+      "id": 648699,
+      "firstname": "Gérard",
+      "surname": "Nash",
+      "nee": "",
+      "createdAt": "2026-11-19T13:06:19.232Z",
+      "town": "Mungret",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/648699"
+    },
+    {
+      "id": 648726,
+      "firstname": "John (Johnny)",
+      "surname": "Daly",
+      "nee": "",
+      "createdAt": "2026-11-19T15:42:02.119Z",
+      "town": "Kilmallock",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/648726"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-11-21T23:18:13.373Z"
+  "updatedAt": "2026-11-22T06:50:50.016Z"
 }
