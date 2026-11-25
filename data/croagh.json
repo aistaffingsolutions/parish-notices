@@ -3,14 +3,24 @@
     {
       "id": 649383,
       "firstname": "Eamonn",
-      "surname": "O’Malley",
+      "surname": "O'Malley",
       "nee": "",
       "createdAt": "2026-11-25T14:02:55.598Z",
       "town": "Croagh",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/649383"
+    },
+    {
+      "id": 649472,
+      "firstname": "John (Johnny)",
+      "surname": "Doab",
+      "nee": "",
+      "createdAt": "2026-11-25T21:14:49.751Z",
+      "town": "Croagh",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/649472"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-11-25T14:25:49.783Z"
+  "updatedAt": "2026-11-25T23:37:55.843Z"
 }
