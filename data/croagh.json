@@ -1,36 +1,36 @@
 {
   "notices": [
     {
-      "id": 648562,
-      "firstname": "Frank",
-      "surname": "Hayes",
-      "nee": "",
-      "createdAt": "2026-11-18T14:36:17.350Z",
+      "id": 648955,
+      "firstname": "FIDELMA",
+      "surname": "KIELY",
+      "nee": "HURLEY",
+      "createdAt": "2026-11-21T14:16:19.989Z",
+      "town": "Clarina",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/648955"
+    },
+    {
+      "id": 648956,
+      "firstname": "Rita",
+      "surname": "WALTERS",
+      "nee": "English",
+      "createdAt": "2026-11-21T14:21:51.165Z",
       "town": "Limerick City",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648562"
+      "url": "https://rip.ie/death-notice/648956"
     },
     {
-      "id": 648699,
-      "firstname": "Gérard",
-      "surname": "Nash",
-      "nee": "",
-      "createdAt": "2026-11-19T13:06:19.232Z",
-      "town": "Mungret",
+      "id": 649017,
+      "firstname": "Catherine (Kitty)",
+      "surname": "Leahy",
+      "nee": "Hennessy",
+      "createdAt": "2026-11-21T22:12:37.188Z",
+      "town": "Ballingarry",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648699"
-    },
-    {
-      "id": 648805,
-      "firstname": "Sr. Aelred",
-      "surname": "Meagher",
-      "nee": "",
-      "createdAt": "2026-11-20T00:15:03.233Z",
-      "town": "Oola",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648805"
+      "url": "https://rip.ie/death-notice/649017"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-11-24T21:12:32.019Z"
+  "updatedAt": "2026-11-25T04:12:49.434Z"
 }
