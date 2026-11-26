@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 648956,
-      "firstname": "Rita",
-      "surname": "WALTERS",
-      "nee": "English",
-      "createdAt": "2026-11-21T14:21:51.165Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/648956"
-    },
-    {
-      "id": 649263,
-      "firstname": "Robert (Bob)",
-      "surname": "O'DONOGHUE",
-      "nee": "",
-      "createdAt": "2026-11-24T11:49:04.447Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/649263"
-    },
-    {
       "id": 649282,
       "firstname": "Aileen",
       "surname": "O’Connell",
@@ -29,8 +9,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/649282"
+    },
+    {
+      "id": 649290,
+      "firstname": "Brendan",
+      "surname": "DALY",
+      "nee": "",
+      "createdAt": "2026-11-24T14:57:13.094Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/649290"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-11-25T23:37:55.844Z"
+  "updatedAt": "2026-11-26T08:20:29.130Z"
 }
