@@ -1,26 +1,6 @@
 {
   "notices": [
     {
-      "id": 649282,
-      "firstname": "Aileen",
-      "surname": "O’Connell",
-      "nee": "",
-      "createdAt": "2026-11-24T14:11:21.547Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/649282"
-    },
-    {
-      "id": 649290,
-      "firstname": "Brendan",
-      "surname": "DALY",
-      "nee": "",
-      "createdAt": "2026-11-24T14:57:13.094Z",
-      "town": "Limerick City",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/649290"
-    },
-    {
       "id": 649523,
       "firstname": "CAROLINE",
       "surname": "McMAHON",
@@ -29,8 +9,18 @@
       "town": "Limerick City",
       "county": "Limerick",
       "url": "https://rip.ie/death-notice/649523"
+    },
+    {
+      "id": 649531,
+      "firstname": "Capt. Bill",
+      "surname": "Hanrahan",
+      "nee": "",
+      "createdAt": "2026-11-26T14:46:38.405Z",
+      "town": "Limerick City",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/649531"
     }
   ],
   "scope": "parish",
-  "updatedAt": "2026-11-26T19:01:05.776Z"
+  "updatedAt": "2026-11-27T02:11:42.450Z"
 }
