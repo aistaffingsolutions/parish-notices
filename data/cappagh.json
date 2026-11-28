@@ -1,16 +1,6 @@
 {
   "notices": [
     {
-      "id": 649273,
-      "firstname": "SHEILA",
-      "surname": "McCLOSKEY",
-      "nee": "O'Brien",
-      "createdAt": "2026-11-24T13:02:37.026Z",
-      "town": "Garryowen",
-      "county": "Limerick",
-      "url": "https://rip.ie/death-notice/649273"
-    },
-    {
       "id": 649320,
       "firstname": "CHRISTINA (CHRISSIE)",
       "surname": "BOURKE",
@@ -21,16 +11,26 @@
       "url": "https://rip.ie/death-notice/649320"
     },
     {
-      "id": 649355,
-      "firstname": "Malachy",
-      "surname": "Ryan",
+      "id": 649383,
+      "firstname": "Eamonn",
+      "surname": "O'Malley",
       "nee": "",
-      "createdAt": "2026-11-24T20:30:56.437Z",
-      "town": "Pallasgreen",
+      "createdAt": "2026-11-25T14:02:55.598Z",
+      "town": "Croagh",
       "county": "Limerick",
-      "url": "https://rip.ie/death-notice/649355"
+      "url": "https://rip.ie/death-notice/649383"
+    },
+    {
+      "id": 649515,
+      "firstname": "Spencer",
+      "surname": "HARTIGAN",
+      "nee": "",
+      "createdAt": "2026-11-26T13:05:22.476Z",
+      "town": "Fedamore",
+      "county": "Limerick",
+      "url": "https://rip.ie/death-notice/649515"
     }
   ],
   "scope": "limerick",
-  "updatedAt": "2026-11-27T19:57:52.837Z"
+  "updatedAt": "2026-11-28T02:42:15.395Z"
 }
